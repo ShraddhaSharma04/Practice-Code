@@ -1,1 +1,1 @@
-# Amazon_Practice
+# Random Practice Questions
